@@ -12,7 +12,7 @@ Here are my projects from the **100 Days of SwiftUI** course:
 - [Cupcake Corner](https://github.com/barnakopacsi/cupcake-corner)
 - [Bookworm](https://github.com/barnakopacsi/bookworm)
 - [iExpense](https://github.com/barnakopacsi/iexpense)
-- [FriendZone] https://github.com/barnakopacsi/friendzone)
+- [FriendZone](https://github.com/barnakopacsi/friendzone)
 - [Instafilter](https://github.com/barnakopacsi/instafilter)
 - [BucketList](https://github.com/barnakopacsi/bucketlist)
 - [Contacts](https://github.com/barnakopacsi/contacts)
